@@ -279,7 +279,18 @@ if in conditions '&&' is used then first condition will be checked and if true t
                 Console.WriteLine("Wrong choice, try again");
                 goto Decide;
         }
-        
+        Console.WriteLine("Total cost is {0}",Total_Cost);
+    }
+
+    static void Video_13()
+    {
+        int target = int.Parse(Console.ReadLine());
+        int test = 0;
+        while (test <= target)
+        {
+            Console.WriteLine("{0} \n",test);
+            test += 2;
+        }
     }
 
 
@@ -299,7 +310,8 @@ if in conditions '&&' is used then first condition will be checked and if true t
         //Video_10();
         //Video_10_ExtraPractice();
         //Video_11();
-        Video_12();
+        //Video_12();
+        Video_13();
     }
 }
 
