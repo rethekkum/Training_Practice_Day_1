@@ -1,0 +1,15 @@
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\bin\Debug\net6.0\Training_Practice_1_Git.exe
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\bin\Debug\net6.0\Training_Practice_1_Git.deps.json
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\bin\Debug\net6.0\Training_Practice_1_Git.runtimeconfig.json
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\bin\Debug\net6.0\Training_Practice_1_Git.dll
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\bin\Debug\net6.0\Training_Practice_1_Git.pdb
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\obj\Debug\net6.0\Training_Practice_1_Git.csproj.AssemblyReference.cache
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\obj\Debug\net6.0\Training_Practice_1_Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\obj\Debug\net6.0\Training_Practice_1_Git.AssemblyInfoInputs.cache
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\obj\Debug\net6.0\Training_Practice_1_Git.AssemblyInfo.cs
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\obj\Debug\net6.0\Training_Practice_1_Git.csproj.CoreCompileInputs.cache
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\obj\Debug\net6.0\Training_Practice_1_Git.dll
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\obj\Debug\net6.0\refint\Training_Practice_1_Git.dll
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\obj\Debug\net6.0\Training_Practice_1_Git.pdb
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\obj\Debug\net6.0\Training_Practice_1_Git.genruntimeconfig.cache
+C:\Users\Spursol-Rethek Kumar\Desktop\Training\Training_Practice_1_Git\obj\Debug\net6.0\ref\Training_Practice_1_Git.dll
