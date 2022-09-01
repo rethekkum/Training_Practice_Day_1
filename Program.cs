@@ -236,6 +236,52 @@ if in conditions '&&' is used then first condition will be checked and if true t
         // if 
     }
 
+    static void Video_12()
+    {
+        int Total_Cost = 0;
+
+        Start:
+        Console.WriteLine("Select shoes size: 1-Small, 2-Medium, 3-Large");
+        
+        int UserChoice = int.Parse(Console.ReadLine());
+        switch (UserChoice)
+        {
+            case 1:
+                Console.WriteLine("Small");
+                Total_Cost += 10;
+                break;
+            case 2:
+                Console.WriteLine("Medium");
+                Total_Cost += 20;
+                break;
+            case 3:
+                Console.WriteLine("Large");
+                Total_Cost += 30;
+                break;
+            default:
+                Console.WriteLine("Invalid Choice");
+                goto Start;
+        }
+
+        Decide:
+        Console.WriteLine("do you want another pair of shoes?");
+        string userdecision = Console.ReadLine();
+
+        switch (userdecision.ToUpper())
+        {
+            case "YES":
+                goto Start;
+                
+            case "NO":
+                Console.WriteLine("Thanks");
+                break;
+            default:
+                Console.WriteLine("Wrong choice, try again");
+                goto Decide;
+        }
+        
+    }
+
 
     static void Main()
     {
@@ -252,7 +298,8 @@ if in conditions '&&' is used then first condition will be checked and if true t
         //Video_9();
         //Video_10();
         //Video_10_ExtraPractice();
-        Video_11();
+        //Video_11();
+        Video_12();
     }
 }
 
